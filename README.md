@@ -2,9 +2,9 @@
 
 # Librerias:
 
-  1.Flask               pip install flask
+  1.Flask               ( pip install flask )
   
-  2.flask_pymongo       pip install flask_pymongo
+  2.flask_pymongo       ( pip install flask_pymongo )
 
 
   
