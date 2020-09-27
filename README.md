@@ -6,5 +6,5 @@
   
   2.flask_pymongo       ( pip install flask_pymongo )
 
-
+# Notas:
   
