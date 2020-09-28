@@ -1,6 +1,6 @@
 # CRUD-FlaskMongo
 
-Todo el codigo se encuentra dentro de app.py
+Todo el codigo se encuentra dentro de main.py
 
 # Librerias:
 
